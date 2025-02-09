@@ -17,6 +17,9 @@ export default function HOme() {
           <div className="flex items-center gap-2">
             <SquareMousePointer  strokeWidth={1} size={30}/>
             <span className="text-xl font-semibold">Newray</span>
+ <span className="text-xs font-medium bg-amber-700 text-white px-2 py-0.5 rounded-full">
+              Eloom
+            </span>
           </div>
 
           <nav className="hidden md:flex items-center gap-8">
